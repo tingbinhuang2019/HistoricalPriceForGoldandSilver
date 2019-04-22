@@ -16,7 +16,7 @@ The following are the steps to install libraries and set up schema for mysql in 
 3. mysql -u root -p < schema.sql 
 ```
 
-### Running Programs
+### Running the Program
 
 ```
 Before running the program, please create a "config.js" file in database folder and fill in 
